@@ -1,0 +1,38 @@
+
+var ftGUID_4181632="4076FC361B80A8";
+var ftConfID_4181632="0";
+var ftParams_4181632="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.peko-step.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.peko-step.com%2Ftool%2Falphachannel.html&cachebuster=950990.9244725087";
+var ftKeyword_4181632="";
+var ftCustom_4181632="";
+var ftSection_4181632="";
+var ftSegment_4181632="w2c,um2,aclx__kix__nrt__2020_10_25,aclw,ab26,ab27";
+var ftSegmentList_4181632=[{s:'w2c'},{s:'um2'},{m:'c14912_110393rt',s:'aclx__kix__nrt__2020_10_25'},{m:'c14912_110393',s:'aclw'},{s:'ab26',t:46330000},{s:'ab27',t:46340000}];
+var ftRuleMatch_4181632="0";
+var ftTimestamp_4181632="1601896604";
+var ftGeoC2_4181632="jp";
+var ftGeoState_4181632="13";
+var ftGeoCity_4181632="nakano";
+var ftISP_4181632="softbank corp.";
+var ftSpeed_4181632="mobile";
+var ftDMA_4181632="392001";
+var ftLong_4181632="139.67";
+var ftLat_4181632="35.71";
+var ftPostal_4181632="164-0001";
+var ftTimeZone_4181632="900";
+var ftMobileCarrier_4181632="softbank";
+var ftImp4181632 = {};
+ftImp4181632.privacy = "x";
+ftImp4181632.guidAge = "585";
+ftImp4181632.impID = "3E6E51C7-8CF1-76BE-67D0-55E3D2EFCF99";
+ftImp4181632.duid = "FT:4076FC361B80A8";
+
+ftImp4181632.ft_tpplid = "";
+ftImp4181632.ft_c = {};
+ftImp4181632.gdpr = "";
+ftImp4181632.gdpr_consent = "";
+ftImp4181632.gdpr_pd = "";
+ftImp4181632.oob_consent = "";
+ftImp4181632.gdprStoredConsent = "";
+ftImp4181632.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/418/4181632/3196115/js/j-4181632-3196115.js" id="ftscript_m4181632" name="ftscript_m4181632"></scr'+'ipt>');

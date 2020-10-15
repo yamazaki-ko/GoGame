@@ -1,0 +1,38 @@
+
+var ftGUID_4181633="4076FC361B80A8";
+var ftConfID_4181633="0";
+var ftParams_4181633="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fgoogleads.g.doubleclick.net%2Fpagead%2Fads%3Fclient%3Dca-pub-6495453829303198%26output%3Dhtml%26h%3D120%26slotname%3D3350522202%26adk%3D3634628246%26adf%3D1665702344%26w%3D970%26lmt%3D1580885970%26rafmt%3D12%26psa%3D1%26guci%3D2.2.0.0.2.2.0.0%26format%3D970x120%26url%3Dhttps%253A%252F%252Fwww.peko-step.com%252Ftool%252Falphachannel.html%26flash%3D0%26wgl%3D1%26tt_state%3DW3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfV0.%26dt%3D1601896526842%26bpp%3D26%26bdt%3D517%26idt%3D268%26shv%3Dr20201001%26cbv%3Dr20190131%26ptt%3D9%26saldr%3Daa%26abxe%3D1%26cookie%3DID%253D9cb945f552279ac2%253AT%253D1599559837%253AS%253DALNI_MaQNh8TD4d8c7Ust3QO3f2TFxrCog%26correlator%3D545702280920%26frm%3D20%26pv%3D2%26ga_vid%3D986703053.1599559838%26ga_sid%3D1601896527%26ga_hid%3D770286222%26ga_fc%3D1%26iag%3D0%26icsg%3D2357946%26dssz%3D17%26mdo%3D0%26mso%3D0%26u_tz%3D540%26u_his%3D3%26u_java%3D0%26u_h%3D900%26u_w%3D1440%26u_ah%3D844%26u_aw%3D1440%26u_cd%3D24%26u_nplu&cachebuster=807345.8221969075";
+var ftKeyword_4181633="";
+var ftCustom_4181633="";
+var ftSection_4181633="";
+var ftSegment_4181633="w2c,um2,aclx__kix__nrt__2020_10_25,aclw,ab26,ab27";
+var ftSegmentList_4181633=[{s:'w2c'},{s:'um2'},{m:'c14912_110393rt',s:'aclx__kix__nrt__2020_10_25'},{m:'c14912_110393',s:'aclw'},{s:'ab26',t:46330000},{s:'ab27',t:46340000}];
+var ftRuleMatch_4181633="0";
+var ftTimestamp_4181633="1601896605";
+var ftGeoC2_4181633="jp";
+var ftGeoState_4181633="13";
+var ftGeoCity_4181633="nakano";
+var ftISP_4181633="softbank corp.";
+var ftSpeed_4181633="mobile";
+var ftDMA_4181633="392001";
+var ftLong_4181633="139.67";
+var ftLat_4181633="35.71";
+var ftPostal_4181633="164-0001";
+var ftTimeZone_4181633="900";
+var ftMobileCarrier_4181633="softbank";
+var ftImp4181633 = {};
+ftImp4181633.privacy = "x";
+ftImp4181633.guidAge = "585";
+ftImp4181633.impID = "BE529D90-83CC-C908-6F36-935DBC28366E";
+ftImp4181633.duid = "FT:4076FC361B80A8";
+
+ftImp4181633.ft_tpplid = "";
+ftImp4181633.ft_c = {};
+ftImp4181633.gdpr = "";
+ftImp4181633.gdpr_consent = "";
+ftImp4181633.gdpr_pd = "";
+ftImp4181633.oob_consent = "";
+ftImp4181633.gdprStoredConsent = "";
+ftImp4181633.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/418/4181633/3196116/js/j-4181633-3196116.js" id="ftscript_m4181633" name="ftscript_m4181633"></scr'+'ipt>');
