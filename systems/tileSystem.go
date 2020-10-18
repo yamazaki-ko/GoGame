@@ -14,9 +14,9 @@ const (
 	TileNum = 200
 	// TilePositionY : 初期位置Y
 	TilePositionY = 221
-	// CellWidth : 1タイル基準幅
+	// CellWidth : 1タイル基準幅ß
 	CellWidth = 16
-	// CellHeight : 1タイル基準幅
+	// CellHeight : 1タイル基準高さ
 	CellHeight = 16
 )
 
